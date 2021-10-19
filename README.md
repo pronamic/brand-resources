@@ -28,4 +28,4 @@
 
 #### Leaderboard
 
-![Pronamic - Work with us - Leaderboard](banners/pronamic-work-with-us-leaderboard-728x90.svg)
+![Pronamic - Work with us - Leaderboard](banners/pronamic-work-with-us-leaderboard-728x90@4x.min.png)
