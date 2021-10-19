@@ -41,3 +41,5 @@ inkscape --export-filename=icons/pronamic-icon-bg-orange-color-white-20pct-margi
 
 pngquant icons/pronamic-icon-bg-orange-color-white-20pct-margin.png --output icons/pronamic-icon-bg-orange-color-white-20pct-margin.min.png --force
 ```
+
+[![Pronamic - Work with us](https://github.com/pronamic/brand-resources/blob/main/banners/pronamic-work-with-us-leaderboard-728x90%404x.png)](https://www.pronamic.eu/contact/)
