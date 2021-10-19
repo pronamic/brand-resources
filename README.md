@@ -40,6 +40,10 @@ pngquant banners/pronamic-work-with-us-leaderboard-728x90@4x.png --output banner
 inkscape --export-filename=icons/pronamic-icon-bg-orange-color-white-20pct-margin.png --export-width=1000 --export-height=1000 icons/pronamic-icon-bg-orange-color-white-20pct-margin.svg
 
 pngquant icons/pronamic-icon-bg-orange-color-white-20pct-margin.png --output icons/pronamic-icon-bg-orange-color-white-20pct-margin.min.png --force
+
+inkscape --export-filename=icons/pronamic-icon-bg-orange-color-white-25pct-margin.png --export-width=1000 --export-height=1000 icons/pronamic-icon-bg-orange-color-white-25pct-margin.svg
+
+pngquant icons/pronamic-icon-bg-orange-color-white-25pct-margin.png --output icons/pronamic-icon-bg-orange-color-white-25pct-margin.min.png --force
 ```
 
 [![Pronamic - Work with us](https://github.com/pronamic/brand-resources/blob/main/banners/pronamic-work-with-us-leaderboard-728x90%404x.png)](https://www.pronamic.eu/contact/)
