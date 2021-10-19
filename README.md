@@ -29,3 +29,15 @@
 #### Leaderboard
 
 ![Pronamic - Work with us - Leaderboard](banners/pronamic-work-with-us-leaderboard-728x90.svg)
+
+## Convert
+
+```
+inkscape --export-filename=banners/pronamic-work-with-us-leaderboard-728x90@4x.png --export-width=2912 --export-height=360 banners/pronamic-work-with-us-leaderboard-728x90.svg
+
+pngquant banners/pronamic-work-with-us-leaderboard-728x90@4x.png --output banners/pronamic-work-with-us-leaderboard-728x90@4x.min.png --force
+
+inkscape --export-filename=icons/pronamic-icon-bg-orange-color-white-20pct-margin.png --export-width=1000 --export-height=1000 icons/pronamic-icon-bg-orange-color-white-20pct-margin.svg
+
+pngquant icons/pronamic-icon-bg-orange-color-white-20pct-margin.png --output icons/pronamic-icon-bg-orange-color-white-20pct-margin.min.png --force
+```
