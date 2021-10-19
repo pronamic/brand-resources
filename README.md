@@ -1,2 +1,4 @@
-# brand-resources
-Pronamic brand resources.
+# Pronamic Brand Resources
+
+## Colors
+
